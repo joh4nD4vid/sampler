@@ -1,5 +1,1 @@
-$(document).ready (function() {
-    
-    // Inscrire les commandes jQuery ici.
-    
-});
+console.log('Le script est bien chargé.');
